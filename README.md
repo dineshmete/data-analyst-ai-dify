@@ -1,6 +1,6 @@
-# Data Analyst AI (Dify)
+# Data Analyst AI Agent (Dify)
 
-A Dify chatflow that answers questions about an uploaded CSV file. Upload the file once, then ask many questions in the same chat. The bot runs calculations, draws ECharts charts, checks the data for mismatches, and can send the summary by Gmail after the user confirms.
+A Dify AI agent that answers questions about an uploaded CSV file. Upload the file once, then ask many questions in the same chat. The agent uses tools to run calculations with a Code Interpreter, draw ECharts charts, check the data for mismatches, and send the summary by Gmail after the user confirms.
 
 Tested on a 10-row sales dataset (`sales.csv`).
 

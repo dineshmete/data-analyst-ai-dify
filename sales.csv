@@ -1,0 +1,11 @@
+OrderID,Date,Category,Product,Region,Quantity,UnitPrice,TotalSales
+101,2026-01-01,Electronics,Wireless Mouse,North,5,499,2495
+102,2026-01-02,Clothing,Cotton T-Shirt,South,10,399,3990
+103,2026-01-03,Electronics,Bluetooth Speaker,East,3,1299,3897
+104,2026-01-04,Groceries,Organic Honey,West,7,299,2093
+105,2026-01-05,Clothing,Denim Jeans,North,4,1199,4996
+106,2026-01-06,Electronics,Wireless Mouse,South,8,499,3992
+107,2026-01-07,Groceries,Green Tea,West,12,199,2388
+108,2026-01-08,Clothing,Cotton T-Shirt,East,15,399,5985
+109,2026-01-09,Electronics,Bluetooth Speaker,North,2,1299,2598
+110,2026-01-10,Groceries,Organic Honey,South,6,299,1794
